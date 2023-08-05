@@ -1,5 +1,7 @@
 ---
-background-color: #E9EFEC;
+body {
+  background-color: lightblue;
+}
 ---
 
 @import "{{ site.theme }}";
