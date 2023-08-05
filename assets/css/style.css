@@ -1,1 +1,5 @@
+---
+background-color: #E9EFEC;
+---
 
+@import "{{ site.theme }}";
