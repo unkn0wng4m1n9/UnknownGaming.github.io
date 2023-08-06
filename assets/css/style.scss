@@ -12,6 +12,9 @@ $color_5: #555568;
 body {
 	color: $color_1;
 }
+header {
+	border-bottom: $color_5;
+}
 
 header h1 {
 	color: $color_2;
@@ -37,6 +40,11 @@ pre {
 	color: $color_5;
 }
 
-ul li {
+
+ul {
+	color: $color_5;
+}
+
+ol {
 	color: $color_5;
 }
