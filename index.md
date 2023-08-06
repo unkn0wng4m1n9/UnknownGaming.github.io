@@ -22,4 +22,3 @@ layout: default
 <h2 id="--for-desiginguseful-sites-designhtml">- <a href="./_posts/dir1/2023-08-07-useful-sites-design.md">FOR DESIGING</a></h2>
 <hr />
 
-</div>
