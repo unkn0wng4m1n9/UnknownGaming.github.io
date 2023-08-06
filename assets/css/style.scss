@@ -36,12 +36,12 @@ code.highlighter-rouge {
 
 th {
 	color: $color_1;
-	border-bottom: $color_1;
+	border-bottom: 1px dashed $color_1;
 }
 
 hr {
 	color: $color_1;
-	border-bottom: $color_1;
+	border-bottom: 1px dashed $color_1;
 }
 
 li::marker {
