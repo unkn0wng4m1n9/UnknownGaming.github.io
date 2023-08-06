@@ -16,8 +16,7 @@ body {
 }
 
 header {
-	border-bottom: $color_1;
-}
+	border-bottom: 1px dashed $color_1;
 
 header h1 {
 	color: $color_2;
@@ -37,7 +36,7 @@ code.highlighter-rouge {
 
 th {
 	color: $color_1;
-	border-bottom: 1px dashed $color_1;
+	border-bottom: 1px dashed
 }
 
 hr {
