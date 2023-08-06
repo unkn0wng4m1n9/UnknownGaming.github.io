@@ -7,6 +7,7 @@ $color_1: #A0A08B;
 $color_2: #008451;
 $color_3: #FBB231;
 $color_4: #E44631;
+$color_5: #555568;
 body {
 	color: $color_1;
 }
@@ -25,4 +26,8 @@ a {
 
 code.highlighter-rouge {
 	color: $color_4;
+}
+
+hr {
+	color: $color_5;
 }
