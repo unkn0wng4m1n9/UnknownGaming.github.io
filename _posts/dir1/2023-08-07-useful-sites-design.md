@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Useful Website for Desigining!"
-categories: useful websites
-type: "post"
-post: url
+author: jill
 ---
 
-ASDASHDKASJHDJKASHDJKASHDJKASH 
+A banana is an edible fruit – botanically a berry – produced by several
+kinds of large herbaceous flowering plants in the genus Musa.
 
-<!--more-->
-Out-of-excerpt
+In some countries, bananas used for cooking may be called "plantains",
+distinguishing them from dessert bananas. The fruit is variable in size,
+color, and firmness, but is usually elongated and curved, with soft
+flesh rich in starch covered with a rind, which may be green, yellow,
+red, purple, or brown when ripe.
 
 ## Welcome to another page
 
