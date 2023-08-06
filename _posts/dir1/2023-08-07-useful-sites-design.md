@@ -2,7 +2,8 @@
 layout: post
 title: "Useful Website for Desigining!"
 categories: useful websites
-type: post
+type: "post"
+post: url
 ---
 
 ASDASHDKASJHDJKASHDJKASHDJKASH 
