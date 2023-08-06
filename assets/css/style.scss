@@ -6,13 +6,17 @@
 $color_1: #A0A08B;
 $color_2: #008451;
 $color_3: #FBB231;
-
+$color_4: #E44631;
 body {
 	color: $color_1;
 }
 
-header h1, h1, h2, h3, h4, h5, h6 {
+header h1 {
 	color: $color_2;
+}
+
+h1, h1, h2, h3, h4, h5, h6 {
+	color:$color_2;
 }
 
 a {
@@ -20,5 +24,5 @@ a {
 }
 
 code.highlighter-rouge {
-	color: #E44631;
+	color: $color_4;
 }
