@@ -1,9 +1,19 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
-$background-color_1: #211E20;
+$color_1: #A0A08B;
+$color_2: #008451;
+$color_3: #FBB231;
 
 body {
-	background-color: $background-color_1;
+	color: $color_1;
 }
+h1 {
+	color: $color_2;
+}
+a {
+	color: $color_3;
+}
+
