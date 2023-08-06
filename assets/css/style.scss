@@ -1,3 +1,9 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+$background-color_1: #211E20;
+
+body {
+	background-color: $background-color_1;
+}
