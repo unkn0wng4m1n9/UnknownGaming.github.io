@@ -8,12 +8,14 @@ $color_2: #008451;
 $color_3: #FBB231;
 $color_4: #E44631;
 $color_5: #555568;
+$color_6: #4554A4;
 
 body {
 	color: $color_1;
 }
+
 header {
-	border-bottom: $color_5;
+	border-bottom: $color_1;
 }
 
 header h1 {
@@ -32,19 +34,14 @@ code.highlighter-rouge {
 	color: $color_4;
 }
 
+th {
+	color: $color_1;
+}
+
 hr {
-	color: $color_5;
+	color: $color_1;
 }
 
-pre {
-	color: $color_5;
-}
-
-
-ul {
-	color: $color_5;
-}
-
-ol {
-	color: $color_5;
+&::marker {
+	color: $color_6;
 }
